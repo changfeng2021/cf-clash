@@ -26,3 +26,6 @@
 
 运行程序后，在浏览器打开 http://ip:8843 就可以访问`cf-clash`
 > 默认 clash rest 端口 9090
+
+### cf-clash docker 运行的2种方式
+[docker运行的2种方式](https://www.cfmem.com/2022/06/clash-cf-clash-docker-2.html)
