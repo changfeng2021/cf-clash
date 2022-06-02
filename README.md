@@ -14,7 +14,7 @@
 
 ### 使用方法
 
-在 Linux 独立使用，请使用 root 用户执行，Docker 请使用 `privileged` 如：`docker run --name cf-clash --net=host --privileged changfeng2021/cf-clash:latest`
+在 Linux 独立使用，请使用 root 用户执行，Docker 请使用 `privileged` 如：`docker run -d --name cf-clash --net=host --privileged changfeng2021/cf-clash:latest`
 
 > 因为程序是基于 jdk11写的，请先安装 jdk11 环境后再运行.
 > 
