@@ -24,7 +24,7 @@
 > 
 > Open jdk: https://jdk.java.net/archive/
 
-运行程序后，在浏览器打开 http://ip:8843 就可以访问`cf-clash`
+运行程序后，在浏览器打开 http://ip:8443 就可以访问`cf-clash`
 > 默认 clash rest 端口 9090
 
 ### 教程
